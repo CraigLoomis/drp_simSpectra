@@ -1,0 +1,3 @@
+catId:
+  1000: {description: "calibration spectra" }
+  1001: {description: "sky spectra" }
